@@ -2,32 +2,29 @@
 # ISC2 CISSP Certified Information Systems Security Professional: Official Practice Tests, Fourth Edition
 # By: Mike Chapple, David Seidl - 8h 38m8hours 38minutes - Publisher: John Wiley & Sons (US) © 2024
 
-hapter 1: Security and Risk Management (Domain 1)
-SUBDOMAINS
-1.1 Understand, adhere to, and promote professional ethics
-1.2 Understand and apply security concepts
-1.3 Evaluate, apply, and sustain security governance principles
-1.4 Understand legal, regulatory, and compliance issues that pertain to information security in a holistic context
-1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)
-1.6 Develop, document, and implement security policy, standards, procedures, and guidelines
-1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements
-1.8 Contribute to and enforce personnel security policies and procedures
-1.9 Understand and apply risk management concepts
-1.10 Understand and apply threat modeling concepts and methodologies
-1.11 Apply Supply Chain Risk Management (SCRM) concepts
-1.12 Establish and maintain a security awareness, education, and training program
-Alyssa is responsible for her organization's security awareness program. She is concerned that changes in technology may make the content outdated. What control can she put in place to protect against this risk?
+### Chapter 1: Security and Risk Management (Domain 1)
+### SUBDOMAINS
+  - 1.1 Understand, adhere to, and promote professional ethics
+  - 1.2 Understand and apply security concepts
+  - 1.3 Evaluate, apply, and sustain security governance principles
+  - 1.4 Understand legal, regulatory, and compliance issues that pertain to information security in a holistic context
+  - 1.5 Understand requirements for investigation types (i.e., administrative, criminal, civil, regulatory, industry standards)
+  - 1.6 Develop, document, and implement security policy, standards, procedures, and guidelines
+  - 1.7 Identify, analyze, assess, prioritize, and implement Business Continuity (BC) requirements
+  - 1.8 Contribute to and enforce personnel security policies and procedures
+  - 1.9 Understand and apply risk management concepts
+  - 1.10 Understand and apply threat modeling concepts and methodologies
+  - 1.11 Apply Supply Chain Risk Management (SCRM) concepts
+  - 1.12 Establish and maintain a security awareness, education, and training program
 
-Gamification
+### Question # 1 - Alyssa is responsible for her organization's security awareness program. She is concerned that changes in technology may make the content outdated. What control can she put in place to protect against this risk?            
+A. Gamification                  
+B. Computer-based training          
+C. Content reviews           
+D. Live training        
+Answer: C.         
 
-Computer-based training
-
-Content reviews
-
-Live training
-
-Answer:
-C.  Alyssa should use periodic content reviews to continually verify that the content in her program meets the organization's needs and is up-to-date based upon the evolving risk landscape. She may do this using a combination of computer-based training, live training, and gamification, but those techniques do not necessarily verify that the content is updated.
+Alyssa should use periodic content reviews to continually verify that the content in her program meets the organization's needs and is up-to-date based upon the evolving risk landscape. She may do this using a combination of computer-based training, live training, and gamification, but those techniques do not necessarily verify that the content is updated.
 
 Gavin is creating a report for management on the results of his most recent risk assessment. In his report, he would like to identify the remaining level of risk to the organization after adopting security controls. What term best describes this current level of risk?
 
