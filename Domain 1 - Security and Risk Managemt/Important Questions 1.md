@@ -17,16 +17,16 @@
   - 1.11 Apply Supply Chain Risk Management (SCRM) concepts
   - 1.12 Establish and maintain a security awareness, education, and training program
 
-### Question # 1 - Alyssa is responsible for her organization's security awareness program. She is concerned that changes in technology may make the content outdated. What control can she put in place to protect against this risk?            
+### Question # 1 - Alyssa is responsible for her organization's security awareness program. She is concerned that changes in technology may make the content outdated. What control can she put in place to protect against this risk?                   
 A.   Gamification                  
-B.   Computer-based training          
-C.   Content reviews           
-D.   Live training        
-Answer: C.         
+B.   Computer-based training                
+C.   Content reviews                
+D.   Live training            
+Answer: C.                    
 
 Alyssa should use periodic content reviews to continually verify that the content in her program meets the organization's needs and is up-to-date based upon the evolving risk landscape. She may do this using a combination of computer-based training, live training, and gamification, but those techniques do not necessarily verify that the content is updated.
 
-### Question # 1 - Gavin is creating a report for management on the results of his most recent risk assessment. In his report, he would like to identify the remaining level of risk to the organization after adopting security controls. What term best describes this current level of risk?        
+### Question # 2 - Gavin is creating a report for management on the results of his most recent risk assessment. In his report, he would like to identify the remaining level of risk to the organization after adopting security controls. What term best describes this current level of risk?        
 A.  Inherent risk           
 B.  Residual risk            
 C.  Control risk               
@@ -35,79 +35,79 @@ Answer: B.
 
 The residual risk is the level of risk that remains after controls have been applied to mitigate risks. Inherent risk is the original risk that existed prior to the controls. Control risk is new risk introduced by the addition of controls to the environment. Mitigated risk is the risk that has been addressed by existing controls.
 
-### Question # 1 - Francine is a security specialist for an online service provider in the United States. She recently received a claim from a copyright holder that a user is storing information on her service that violates the third party's copyright. What law governs the actions that Francine must take?
-A.  Copyright Act
-B.  Lanham Act
-C.  Digital Millennium Copyright Act
-D.  Gramm-Leach-Bliley Act
-Answer: C.  
+### Question # 3 - Francine is a security specialist for an online service provider in the United States. She recently received a claim from a copyright holder that a user is storing information on her service that violates the third party's copyright. What law governs the actions that Francine must take?                     
+A.  Copyright Act              
+B.  Lanham Act                         
+C.  Digital Millennium Copyright Act            
+D.  Gramm-Leach-Bliley Act                     
+Answer: C.             
 
 The Digital Millennium Copyright Act (DMCA) sets forth the requirements for online service providers when handling copyright complaints received from third parties. The Copyright Act creates the mechanics for issuing and enforcing copyrights but does not cover the actions of online service providers. 
 The Lanham Act regulates the issuance of trademarks to protect intellectual property. The Gramm-Leach-Bliley Act regulates the handling of personal financial information.
 
-### Question # 1 - FlyAway Travel has offices in both the European Union (EU) and the United States and transfers personal information between those offices regularly. They have recently received a request from an EU customer requesting that their account be terminated. Under the General Data Protection Regulation (GDPR), which requirement for processing personal information states that individuals may request that their data no longer be disseminated or processed?
-A.  The right to access
-B.  Privacy by Design
-C.  The right to erasure
-D.  The right of data portability
-Answer: C.  
+### Question # 4 - FlyAway Travel has offices in both the European Union (EU) and the United States and transfers personal information between those offices regularly. They have recently received a request from an EU customer requesting that their account be terminated. Under the General Data Protection Regulation (GDPR), which requirement for processing personal information states that individuals may request that their data no longer be disseminated or processed?                   
+A.  The right to access                
+B.  Privacy by Design                     
+C.  The right to erasure                    
+D.  The right of data portability                       
+Answer: C.                      
 
 The right to erasure, also known as the right to be forgotten, guarantees the data subject the ability to have their information removed from processing or use. It may be tied to consent given for data processing; if a subject revokes consent for processing, the data controller may need to take additional steps, including erasure.
 
-### Question # 1 - After conducting a qualitative risk assessment of her organization, Sally recommends purchasing cybersecurity breach insurance. What type of risk response behavior is she recommending?
-A.  Accept
-B.  Transfer
-C.  Reduce
-D.  Reject
-Answer: B.  
+### Question # 5 - After conducting a qualitative risk assessment of her organization, Sally recommends purchasing cybersecurity breach insurance. What type of risk response behavior is she recommending?   
+A.  Accept                                 
+B.  Transfer                  
+C.  Reduce                   
+D.  Reject                 
+Answer: B.           
 
 Purchasing insurance is a means of transferring risk. If Sally had worked to decrease the likelihood of the events occurring, she would have been using a reduce or risk mitigation strategy, while simply continuing to function as the organization has would be an example of an acceptance strategy. Rejection, or denial of the risk, is not a valid strategy, even though it occurs!
 
-### Question # 1 - Which one of the following elements of information is not considered personally identifiable information that would trigger most United States state data breach laws?
-A.  Student identification number
-B.  Social Security number
-C.  Driver's license number
-D.  Credit card number
-Answer: A.  
+### Question # 6 - Which one of the following elements of information is not considered personally identifiable information that would trigger most United States state data breach laws?            
+A.  Student identification number                  
+B.  Social Security number                         
+C.  Driver's license number                       
+D.  Credit card number                       
+Answer: A.                         
 
 Most state data breach notification laws are modeled after California's data breach notification law, which covers Social Security number, driver's license number, state identification card number, credit/debit card numbers, and bank account numbers (in conjunction with a PIN or password). 
 These laws are separate and distinct from privacy laws, such as the California Consumer Privacy Act (CCPA), 
 which regulates the handling of personal information more broadly.
 
-### Question # 1 - Renee is purchasing a new software product and is working with the vendor on the negotiation of a license agreement that will specify customized terms of use and a discounted price. What type of agreement would normally be used to document the results of this negotiation?
-A.  Perpetual license
-B.  Subscription license
-C.  Enterprise license agreement
-D.  End-user license agreement
-Answer: C.  
+### Question # 7 - Renee is purchasing a new software product and is working with the vendor on the negotiation of a license agreement that will specify customized terms of use and a discounted price. What type of agreement would normally be used to document the results of this negotiation?                    
+A.  Perpetual license                     
+B.  Subscription license                    
+C.  Enterprise license agreement                     
+D.  End-user license agreement                  
+Answer: C.                      
 
 Renee's situation calls for an enterprise license agreement as it typically allows customization of terms and pricing, reflecting the negotiated details between the vendor and a corporate client. 
 The license agreement may be written as a perpetual or subscription license, but there is no information provided in the scenario about which one is being used. An end-user license agreement usually accompanies software to dictate the terms of use but is not designed for custom negotiations and pricing agreements.
 
-### Question # 1 - Henry recently assisted one of his co-workers in preparing for the CISSP® exam. During this process, Henry disclosed confidential information about the content of the exam, in violation of Canon IV of the Code of Ethics: “Advance and protect the profession.” Who may bring ethics charges against Henry for this violation?
-A.  Anyone may bring charges.
-B.  Any certified or licensed professional may bring charges.
-C.  Only Henry's employer may bring charges.
-D.  Only the affected employee may bring charges.
-Answer: B.  
-
+### Question # 8 - Henry recently assisted one of his co-workers in preparing for the CISSP® exam. During this process, Henry disclosed confidential information about the content of the exam, in violation of Canon IV of the Code of Ethics: “Advance and protect the profession.” Who may bring ethics charges against Henry for this violation?                     
+A.  Anyone may bring charges.                                       
+B.  Any certified or licensed professional may bring charges.                   
+C.  Only Henry's employer may bring charges.                              
+D.  Only the affected employee may bring charges.                               
+Answer: B.                  
+ 
 This is a question about who has the standing to bring an ethics complaint. The group of individuals that has standing differs based upon the violated canon. In this case, we are examining Canon IV, which permits any certified or licensed professional who subscribes to a code of ethics to bring charges. Charges of violations of Canons I or II may be brought by anyone. Charges of violations of Canon III may be brought only by a principal with an employer/contractor relationship with the accused.
 
-### Question # 1 - Wanda is working with one of her organization's European Union business partners to facilitate the exchange of customer information. Wanda's organization is located in the United States. What would be the best method for Wanda to use to ensure GDPR compliance?
-A.  Binding corporate rules
-B.  Privacy Shield
-C.  Standard contractual clauses
-D.  Safe harbor
-Answer: C.  
+### Question # 9 - Wanda is working with one of her organization's European Union business partners to facilitate the exchange of customer information. Wanda's organization is located in the United States. What would be the best method for Wanda to use to ensure GDPR compliance?                   
+A.  Binding corporate rules                  
+B.  Privacy Shield                                                    
+C.  Standard contractual clauses                       
+D.  Safe harbor                
+Answer: C.                
 
 The European Union provides standard contractual clauses that may be used to facilitate data transfer. That would be the best choice in a case where two different companies are sharing data. If the data was being shared internally within a company, binding corporate rules would also be an option. The EU/U.S. Privacy Shield was a safe harbor agreement that would previously have allowed the transfer but is no longer valid.
 
-### Question # 1 - Yolanda is the chief privacy officer for a financial institution and is researching privacy requirements related to customer checking accounts. Which one of the following laws is most likely to apply to this situation?
-A.  GLBA
-B.  SOX
-C.  HIPAA
-D.  FERPA
-Answer: A.  
+### Question # 10 - Yolanda is the chief privacy officer for a financial institution and is researching privacy requirements related to customer checking accounts. Which one of the following laws is most likely to apply to this situation?                 
+A.  GLBA             
+B.  SOX                 
+C.  HIPAA                 
+D.  FERPA                  
+Answer: A.               
 
 The Gramm-Leach-Bliley Act (GLBA) contains provisions regulating the privacy of customer financial information. It applies specifically to financial institutions. Among other things, the Sarbanes Oxley (SOX) Act regulates the financial reporting activities of publicly traded companies.
 
